@@ -1,7 +1,8 @@
 import React from 'react';
 import "./App.css"
 // import TempBoard from './components/reactLiftingStateUp/TempBoard';
-import HocBord from './components/hoc/HocBord';
+// import HocBord from './components/hoc/HocBord';
+import AllUserList from './components/hocLoader/AllUserList';
 
 const App = () => {
   const areaStyle = {
@@ -14,7 +15,8 @@ const App = () => {
   return (
     <div style={areaStyle}>
       {/* <TempBoard/> */}
-      <HocBord />
+      {/* <HocBord /> */}
+      <AllUserList/>
     </div>
   );
 };

@@ -1,5 +1,4 @@
 import React from 'react';
-import HOC from './HOC';
 const buttons = {
     backgroundColor: "black",
     color: "white",
@@ -18,4 +17,4 @@ const buttons = {
         );
     };
 
-export default HOC(CompOne);
+export default CompOne;

@@ -1,6 +1,7 @@
 import React from 'react';
 import CompOne from './CompOne';
 import CompTwo from './CompTwo';
+import HOC from './HOC';
 
 const HocBord = () => {
     const tempStyle = {
@@ -13,11 +14,13 @@ const HocBord = () => {
         justifyContent: "center",
         flexDirection: "column",
         }
+        const NewCompOne = HOC(CompOne);
+        const NewCompTwo = HOC(CompTwo);
     return (
         <div style={tempStyle}>
              <h1>react HOC example</h1>
-           <CompOne />
-           <CompTwo />
+           <NewCompOne />
+           <NewCompTwo />
         </div>
     );
 };
