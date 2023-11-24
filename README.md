@@ -1,7 +1,7 @@
 #Learning React
 ### ` importent topic`
 1. [React Lifecycle](https://www.w3schools.com/react/react_lifecycle.asp)\
-2.The three phases are: Mounting, Updating, and Unmounting.
+The three phases are: Mounting, Updating, and Unmounting.
 
 <!-- # Getting Started with Create React App
 
