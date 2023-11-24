@@ -11,11 +11,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `npm start`
 In the project directory, you can run: -->
 
-# Documentation (it's an example)
 
-it is well documented at [here](http://docs.g-axon.com/wieldy/ "Documentation") .
+## How to make `Documentation` in README file. 
+it is well documented at [here](http://google.com) .
 
-## Branches (just Example) (How to make table)
+## Branches (How to make table)
 | Branch                           | Description   |
 | -------------------------------- | ------------- |
 | `master`                         | This is the main production branch. You should pull from here to update your local repo. |
@@ -26,6 +26,6 @@ it is well documented at [here](http://docs.g-axon.com/wieldy/ "Documentation") 
 ## Issues
 ##### We accept issues here on GitHub but please follow the rules defined below before raising an issue:
 
-* An issue must be related to coding. It should not be a general query. If you have any query, please ask that [here](https://themeforest.net/item/wieldy-react-redux-admin-template/22277962/support "Support for Wieldy")
+* An issue must be related to coding. It should not be a general query. If you have any query, please ask that [here](http://google.com)
 * You can request a feature as an issue. We will make this open for voting for other users. So that they can vote and we can build what is in demand.
 * While posting an issue be descriptive with the process to replicate the issue.
