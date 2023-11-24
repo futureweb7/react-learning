@@ -1,7 +1,7 @@
 # Learning React
 ### ` importent topic`
-1. [React Lifecycle](https://www.w3schools.com/react/react_lifecycle.asp)\
-The three phases are: Mounting, Updating, and Unmounting.
+1. [React Lifecycle](https://www.w3schools.com/react/react_lifecycle.asp)
+* The three phases are: Mounting, Updating, and Unmounting.
 
 <!-- # Getting Started with Create React App
 
@@ -11,11 +11,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `npm start`
 In the project directory, you can run: -->
 
-# Documentation
+# Documentation (it's an example)
 
 it is well documented at [here](http://docs.g-axon.com/wieldy/ "Documentation") .
 
-## Branches
+## Branches (just Example) (How to make table)
 | Branch                           | Description   |
 | -------------------------------- | ------------- |
 | `master`                         | This is the main production branch. You should pull from here to update your local repo. |
