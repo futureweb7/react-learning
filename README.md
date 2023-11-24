@@ -2,7 +2,7 @@
 ### ` importent topic`
 1. [React Lifecycle](https://www.w3schools.com/react/react_lifecycle.asp)
 * The three phases are: Mounting, Updating, and Unmounting.
-
+![download](https://github.com/futureweb7/react-learning/assets/146654443/95018613-b590-4d2c-9d90-c548325de5bb)
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
