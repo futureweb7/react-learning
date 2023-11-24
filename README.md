@@ -4,9 +4,9 @@
 * The three phases are: Mounting, Updating, and Unmounting.
 
 
-![download](https://github.com/futureweb7/react-learning/assets/146654443/95018613-b590-4d2c-9d90-c548325de5bb)
+<!-- ![download](https://github.com/futureweb7/react-learning/assets/146654443/95018613-b590-4d2c-9d90-c548325de5bb) -->
 
-
+![maxresdefault](https://github.com/futureweb7/react-learning/assets/146654443/f2e7b0cb-a958-403a-84aa-4aed1a99e710)
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
