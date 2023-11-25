@@ -1,6 +1,7 @@
 import React from 'react';
 import "./App.css"
-import ExFour from './components/useState/ExFour';
+// import ExFour from './components/useState/ExFour';
+import ExOne from './components/callBackMemo/exOne/ExOne';
 // import TempBoard from './components/reactLiftingStateUp/TempBoard';
 // import HocBord from './components/hoc/HocBord';
 // import AllUserList from './components/hocLoader/AllUserList';
@@ -14,7 +15,8 @@ const App = () => {
     alignItems: "center",
     justifyContent: "center",
     width:"100%",
-    height:"100dvh"
+    height:"100dvh",
+    flexDirection: "column"
     }
   return (
     <div style={areaStyle}>
@@ -25,7 +27,8 @@ const App = () => {
       {/* <ExOne /> */}
       {/* <ExThree/> */}
       {/* <ExTwo/> */}
-      <ExFour/>
+      {/* <ExFour/> */}
+      <ExOne/>
     </div>
   );
 };
