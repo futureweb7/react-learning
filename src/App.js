@@ -1,9 +1,12 @@
 import React from 'react';
 import "./App.css"
+import ExFour from './components/useState/ExFour';
 // import TempBoard from './components/reactLiftingStateUp/TempBoard';
 // import HocBord from './components/hoc/HocBord';
 // import AllUserList from './components/hocLoader/AllUserList';
-import RenderPropsEx from './components/renderProps/RenderPropsEx';
+// import RenderPropsEx from './components/renderProps/RenderPropsEx';
+// import ExOne from './components/useState/ExOne';
+// import ExTwo from './components/useState/ExTwo';
 
 const App = () => {
   const areaStyle = {
@@ -18,7 +21,11 @@ const App = () => {
       {/* <TempBoard/> */}
       {/* <HocBord /> */}
       {/* <AllUserList/> */}
-      <RenderPropsEx/>
+      {/* <RenderPropsEx/> */}
+      {/* <ExOne /> */}
+      {/* <ExThree/> */}
+      {/* <ExTwo/> */}
+      <ExFour/>
     </div>
   );
 };
